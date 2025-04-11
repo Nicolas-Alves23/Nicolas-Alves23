@@ -1,5 +1,6 @@
 ## Olá eu sou Nicolas Vilela👋
 
-<br>
-<img src="BACK.mp4">
-<br>
+<video width="640" height="360" controls>
+  <source src="BACK.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo HTML5.
+</video>
