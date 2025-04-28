@@ -7,3 +7,4 @@
 <!-- I`m Developer Full-Stack -->
 <!--aaaaaaaaa  -->
 <!-- eu tento e tento -->
+<!-- eu dou commits em banchs segundarias e elas não contam -->
