@@ -4,9 +4,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=2500&color=F9F9FB&center=true&vCenter=true&width=600&lines=Hi+I'm+Nicolas+Alves;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
+<a href="nicolasvilelabarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/nicolas-vilela-263a66290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 
-
-<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,arduino,nextjs,tailwind" /><br>
