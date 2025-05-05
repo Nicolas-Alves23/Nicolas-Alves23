@@ -1,3 +1,3 @@
-<img src="https://i.pinimg.com/736x/59/fc/d7/59fcd7ee9faef4611c49e69d7408d8d6.jpg">
+<img src="https://miro.medium.com/v2/resize:fit:3840/1*_wRL2vgOwXmj3ILvA_XyHg.jpeg">
 
 
