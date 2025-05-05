@@ -9,18 +9,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=,nodejs,mongodb,gitlab,arduino,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,ubuntu,python,javascript,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <br/>
 
 
-
-
-<!-- top repo and teck stack-->
 <div align="center">
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
