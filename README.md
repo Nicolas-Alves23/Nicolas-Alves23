@@ -35,9 +35,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" height="100" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Alves23&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
+<img width="380" height="200" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Alves23&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
 
-  <img width="340"  height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Alves23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Alves23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 
