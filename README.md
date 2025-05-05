@@ -7,9 +7,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=2500&color=F9F9FB&center=true&vCenter=true&width=600&lines=Hi+I'm+Nicolas+Alves;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p>
-  Hello, my name is Nicolas Alves. I love programming and everything related to it. My hobbies include playing video games, reading books, and playing volleyball. I'm an apprentice at Bosch Brazil and a full-stack developer.
-</p>
+
+###  Hello, my name is Nicolas Alves. I love programming and everything related to it. My hobbies include playing video games, reading books, and playing volleyball. I'm an apprentice at Bosch Brazil and a full-stack developer.
+
 
 
 
