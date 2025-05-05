@@ -35,9 +35,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Alves23&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Alves23&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Alves23&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Alves23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 
@@ -49,10 +49,10 @@
 
 <p align="center">
   <a href="https://github.com/Nicolas-Alves23/threejs">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=threejs&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=threejs&theme=radical&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
   </a>
   <a href="https://github.com/Nicolas-Alves23/PWBE_SENAI.git">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE_SENAI&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE_SENAI&theme=radical&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
   </a>
 </p>
 
