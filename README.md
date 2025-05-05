@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=,nodejs,mongodb,gitlab,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,ubuntu,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,arduino,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,ubuntu,python,figma,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,pwsh,javascript,mysql" /><br>
 </div>
 
 <br/>
