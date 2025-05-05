@@ -24,9 +24,9 @@
 <div align="center">
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/Nicolas-Alves23/threejs.git">
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=ThreeJS&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+    <a href="https://github.com/Nicolas-Alves23/PWBE_SENAI.git">
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE-SENAI&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
