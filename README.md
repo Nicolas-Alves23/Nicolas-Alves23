@@ -1,4 +1,4 @@
-<img src="https://wallpapers.com/images/hd/cyberpunk-city-background-zydka6wgso9qt0ba.jpg">
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=2500&color=F9F9FB&center=true&vCenter=true&width=600&lines=Hi+I'm+Nicolas+Alves;Full+Stack+Developer" alt="Typing SVG" />
