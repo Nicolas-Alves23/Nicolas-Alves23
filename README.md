@@ -49,10 +49,10 @@
 
 <p align="center">
   <a href="https://github.com/Nicolas-Alves23/threejs">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=threejs&theme=radical&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=threejs&theme=radical" />
   </a>
   <a href="https://github.com/Nicolas-Alves23/PWBE_SENAI.git">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE_SENAI&theme=radical&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE_SENAI&theme=radical" />
   </a>
 </p>
 
