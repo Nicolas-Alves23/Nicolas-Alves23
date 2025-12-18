@@ -21,7 +21,7 @@
 
 <!-- Algumas ferramentas e linguagens que tenho capacidades de programar -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,idea,arduino,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,idea,arduino,tailwind,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=bash,ubuntu,python,figma,pycharm,php" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,java,pwsh,javascript,mysql,unreal" /><br>
