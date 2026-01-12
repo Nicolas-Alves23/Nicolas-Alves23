@@ -31,28 +31,8 @@
 
 
 
-<!-- Os status do github, mostra meusw commits e a linguagem predominante no meu perfil -->
-<h3 align="center">⚡ Github Status</h3>
-<br>
-<div align="center">
-<img width="380" height="200" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Alves23&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
-
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Alves23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
 
 
 
 
-
-<!-- Os reposítorios que eu mais me orgulho e quero deixar de forma aparente-->
-<h3 align="center">⭐️ Top Repositories</h3>
-
-<p align="center">
-  <a href="https://github.com/Nicolas-Alves23/threejs">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=threejs&theme=radical" />
-  </a>
-  <a href="https://github.com/Nicolas-Alves23/PWBE_SENAI.git">
-    <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Alves23&repo=PWBE_SENAI&theme=radical" />
-  </a>
-</p>
 
