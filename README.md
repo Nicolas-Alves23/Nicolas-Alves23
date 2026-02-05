@@ -23,7 +23,7 @@
 
 ### 💻 IDEs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,idea,pycharm" />
 </div>
 
 ### 🌐 Front-end
@@ -38,7 +38,7 @@
 
 ### 🚀 Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,laravel" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs,angular" />
 </div>
 
 ### 🗄️ Banco de dados
