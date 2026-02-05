@@ -48,7 +48,7 @@
 
 ### 🎮 Desenvolvimento de jogos
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,cpp" />
+  <img src="https://skillicons.dev/icons?i=unreal,cpp,blender" />
 </div>
 
 ### 🤖 Hardware
@@ -58,7 +58,7 @@
 
 ### 🎨 Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </div>
 
 ### 🛠️ Ferramentas
