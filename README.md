@@ -48,7 +48,7 @@
 
 ### 🎮 Desenvolvimento de jogos
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,cpp," />
+  <img src="https://skillicons.dev/icons?i=unreal,cpp" />
 </div>
 
 ### 🤖 Hardware
@@ -73,7 +73,7 @@
 
 ### ⌨️ Terminal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash,pwsh,gnome" />
+  <img src="https://skillicons.dev/icons?i=bash,pwsh" />
 </div>
 
 
