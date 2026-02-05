@@ -20,7 +20,7 @@
 
 
 <!-- Algumas ferramentas e linguagens que tenho capacidades de programar -->
-<div align="center">
+
 ### 💻 IDEs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
@@ -75,7 +75,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash,pwsh" />
 </div>
-</div>
+
 
 <br/>
 
