@@ -21,10 +21,60 @@
 
 <!-- Algumas ferramentas e linguagens que tenho capacidades de programar -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,idea,arduino,tailwind,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,ubuntu,python,figma,pycharm,php,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,java,pwsh,javascript,mysql,unreal" /><br>
+### 💻 IDEs
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
+</div>
+
+### 🌐 Front-end
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap" />
+</div>
+
+### ⚙️ Back-end
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java" />
+</div>
+
+### 🚀 Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=django,laravel" />
+</div>
+
+### 🗄️ Banco de dados
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</div>
+
+### 🎮 Desenvolvimento de jogos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,cpp" />
+</div>
+
+### 🤖 Hardware
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</div>
+
+### 🎨 Design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</div>
+
+### 🛠️ Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</div>
+
+### 🐧 Sistemas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+</div>
+
+### ⌨️ Terminal
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bash,pwsh" />
+</div>
 </div>
 
 <br/>
