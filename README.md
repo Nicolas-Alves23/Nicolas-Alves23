@@ -68,7 +68,7 @@
 
 ### 🐧 Sistemas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <img src="https://skillicons.dev/icons?i=ubuntu, windows" />
 </div>
 
 ### ⌨️ Terminal
